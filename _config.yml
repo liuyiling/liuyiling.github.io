@@ -2,9 +2,9 @@
 title: LYL Blog
 SEOTitle: 刘艺凌的博客 | LYL Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: liuyiling@gmail.com
 description: "Every failure is leading towards success."
-keyword: "哈哈"
+keyword: "厦门码农"
 url: "http://liuyiling.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/liuyiling/liuyiling.github.io.git" # you code repository
@@ -19,9 +19,9 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     liuyiling
-zhihu_username:     qiubaiying
+zhihu_username:     liuyiling
 github_username:    liuyiling
-#twitter_username:   qiubaiying
+#twitter_username:   liuyiling
 
 
 
@@ -55,7 +55,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: liuyiling
 
 # Gitalk
 gitalk:
@@ -76,7 +76,7 @@ gitalk:
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-#ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+#ga_domain: liuyiling.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
